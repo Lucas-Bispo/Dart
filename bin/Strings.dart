@@ -1,3 +1,4 @@
+//String
 main() {
   // Uma string é um tipo para armazenar textos
   String name = 'Lucas Bispo';
