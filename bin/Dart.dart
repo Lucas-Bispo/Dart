@@ -1,3 +1,4 @@
+//inicio
 /*Esse import, importa um arquivo 
 e carrega ele como uma variável */
 import 'package:Dart/Dart.dart' as Dart;
