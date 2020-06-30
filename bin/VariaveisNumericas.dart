@@ -1,3 +1,4 @@
+//apresentação de tipos de dados
 main() {
   //Int Double -> num -> qualquer tipo de número
   num age =24;
